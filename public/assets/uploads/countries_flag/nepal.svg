@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{display:none;clip-path:url(#SVGID_2_);fill:#120065;}
+	.st2{clip-path:url(#SVGID_4_);fill:#22368F;}
+	.st3{clip-path:url(#SVGID_4_);fill:#BC0030;}
+	.st4{clip-path:url(#SVGID_4_);}
+	.st5{clip-path:url(#SVGID_6_);fill:#FFFFFF;}
+</style>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" y="-0.1" width="300" height="300"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="Layer_2_1_" class="st0">
+		</g>
+		<rect x="-1" y="-0.7" class="st1" width="302" height="301.4"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_3_" x="29.5" y="-0.1" width="241.1" height="300.1"/>
+			</defs>
+			<clipPath id="SVGID_4_">
+				<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+			</clipPath>
+			<path class="st2" d="M40.8,20.5L228.5,138H83.8l150.7,150.7H40.8V20.5z M29.5-0.1V300H262L111.3,149.4H268L29.5-0.1z"/>
+			<polygon class="st3" points="35.1,10.2 35.1,294.4 248.3,294.4 97.6,143.7 248.3,143.7 			"/>
+			<g class="st4">
+				<defs>
+					<rect id="SVGID_5_" x="29.5" y="-0.1" width="241.1" height="300.1"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st5" d="M88.4,136.1c23.4,0,42.4-19,42.4-42.4c-3.7,9.4-10.5,17.3-19.1,22.4l-3.6-2.7l7.2-5.3l-8.6-2.2c0,0,0,0,0,0
+					l4.6-7.7l-8.8,1.3l1.3-8.8L96,95.1c0,0,0,0,0,0l-2.2-8.7l-5.4,7.1l-5.3-7.1l-2.2,8.7l0,0l-7.7-4.6l1.3,8.8l-8.8-1.3l4.6,7.7
+					c0,0,0,0,0,0l-8.7,2.2l7.2,5.3l-3.6,2.7c-8.6-5.1-15.3-13-19.1-22.4C46,117.1,65,136.1,88.4,136.1"/>
+				<polygon class="st5" points="116.4,226.5 116.4,226.5 134,219 116.4,211.5 116.4,211.5 127.9,196.2 108.9,198.6 111.2,179.5 
+					95.9,191.1 95.9,191.1 88.4,173.4 80.9,191.1 80.9,191.1 65.6,179.5 68,198.6 48.9,196.2 60.5,211.5 60.5,211.5 42.8,219 
+					60.5,226.5 60.5,226.5 48.9,241.8 68,239.5 68,239.5 68,239.5 65.6,258.5 80.9,247 80.9,247 88.4,264.6 95.9,247 95.9,247 
+					111.2,258.5 108.9,239.5 127.9,241.8 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

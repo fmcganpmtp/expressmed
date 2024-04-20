@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{clip-path:url(#SVGID_4_);fill:#4279FC;}
+	.st2{clip-path:url(#SVGID_4_);fill:#EFD630;}
+	.st3{clip-path:url(#SVGID_4_);fill:#BC002C;}
+	.st4{clip-path:url(#SVGID_6_);fill:#3D9546;}
+	.st5{clip-path:url(#SVGID_6_);fill:#F4DE53;}
+	.st6{clip-path:url(#SVGID_6_);fill:#C9152C;}
+</style>
+<g id="Layer_2">
+</g>
+<g id="Layer_1">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="300" height="300"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="-10.7" width="515.2" height="300.6"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<rect x="-10.7" class="st1" width="515.2" height="300.6"/>
+				<polygon class="st2" points="472.3,0 -10.7,225.4 -10.7,300.6 -10.7,300.6 21.5,300.6 504.5,75.1 504.5,0 				"/>
+				<polygon class="st3" points="504.5,0 -10.7,240.5 -10.7,300.6 -10.7,300.6 -10.7,300.6 504.5,60.1 				"/>
+				<polygon class="st2" points="81.5,20.6 94.3,59.9 135.6,59.9 102.2,84.2 115,123.4 81.5,99.2 48.1,123.4 60.9,84.2 27.4,59.9 
+					68.8,59.9 				"/>
+			</g>
+		</g>
+		<g class="st0">
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="-108.3" y="-0.7" width="516.6" height="301.4"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<rect x="-108.3" y="-0.7" class="st4" width="516.6" height="301.4"/>
+				<polygon class="st5" points="236.1,-0.7 -108.3,300.7 408.3,300.7 408.3,-0.7 				"/>
+				<polygon class="st6" points="408.3,-0.7 63.9,300.7 408.3,300.7 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

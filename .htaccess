@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^expressmed.in [NC]
+RewriteRule ^(.*)$ https://www.expressmed.in/$1 [L,R=301]
+
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.expressmed.in/$1 [R,L]
+
+RewriteCond %{HTTP_HOST} !^www\.
+
+RewriteRule ^(.*)$ https://www.%{HTTP_HOST}/$1 [R=301,L]
